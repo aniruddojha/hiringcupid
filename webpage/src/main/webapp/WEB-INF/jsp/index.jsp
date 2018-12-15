@@ -63,7 +63,10 @@
       <div class="container">
         <div class="intro-text">
           <div class="intro-lead-in">Looking for your Dream Job ?</div>
-          <div class="intro-heading text-uppercase">Send Us your Resume</div>
+          <div class="intro-heading text-uppercase">Get free mock interviews</div>
+          <div class="intro-lead-in-sub-header">
+            <p>Send us your resume to get a free mock interview from interviewers at your dream company!</p> 
+          </div>
           <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Upload Resume</a>
         </div>
       </div>
@@ -86,7 +89,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="static/img/portfolio/01-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Threads</h4>
@@ -100,7 +103,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="static/img/portfolio/02-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Explore</h4>
@@ -114,7 +117,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="static/img/portfolio/03-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Finish</h4>
@@ -128,7 +131,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="static/img/portfolio/04-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Lines</h4>
@@ -142,7 +145,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="static/img/portfolio/05-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Southwest</h4>
@@ -156,7 +159,7 @@
                   <i class="fas fa-plus fa-3x"></i>
                 </div>
               </div>
-              <img class="img-fluid" src="static/img/portfolio/06-thumbnail.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt="">
             </a>
             <div class="portfolio-caption">
               <h4>Window</h4>
@@ -165,7 +168,7 @@
           </div>
         </div>
       </div>
-    </section-->
+    </section -->
 
     <!-- About -->
     <section id="about">
@@ -181,63 +184,63 @@
             <ul class="timeline">
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="static/img/about/1.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>Upload Resume</h4>
-                    <h4 class="subheading">Candidate Uploads Resume</h4>
+                    <h4 class="subheading">Upload your resume</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Candidate uploads the resume on the website using Upload Resume button.</p>
+                    <p class="text-muted">Candidate uploads the resume and gets a chance for free mock interviews taken by alums of his dream company. </p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="static/img/about/2.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>Resume Mapping</h4>
-                    <h4 class="subheading">Team Validates and Maps</h4>
+                    <h4 class="subheading">Tell us about your dream job!</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Our Team goes through the resume and maps the candidate profile to the relevant job opening.</p>
+                    <p class="text-muted">We call you back to know more about your aspirations, work done, interests, goals and your dream companies. We analyze jobs with best fit and lock on the type of interview experience you need.</p>
                   </div>
                 </div>
               </li>
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="static/img/about/3.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>Interview</h4>
-                    <h4 class="subheading">Team Schedules Online Interview</h4>
+                    <h4>Interviews</h4>
+                    <h4 class="subheading">Schedule online interviews</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Once the candidate confirms for the opening team schedules Online Interviews. The interview is taken by experienced professionals working in the Company.</p>
+                    <p class="text-muted">Our team works out acceptable times between interviewee and the interviewers and schedule 2 technical and 1 manager cum hr interviews. The technical interviews are taken online by alums of your dream company.</p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="static/img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
-                    <h4>Person Interview</h4>
-                    <h4 class="subheading">Last Rounds of Interview in the Company</h4>
+                    <h4>Feedback</h4>
+                    <h4 class="subheading">Explore opportunities your dream companies!</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Candidate visits the company once he gets positive feedback for Online Interviews for Personal Interview Rounds. Interviews are taken by the Peers/Managers for the Team which the opening was present.</p>
+                    <p class="text-muted">A detailed feedback is shared with you. What went well and what didn't. We try to follow the same evalution criterias which would be used at your target company. Based on the feedback, you have chance to get interviewed at your dream company and all the matching job openings!  </p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="static/img/about/5.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="img/about/5.jpg" alt="">
                 </div>
               </li>
             </ul>
@@ -296,9 +299,9 @@
         <div class="row">
           <div class="col-sm-6">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="static/img/team/1.jpg" alt="">
+              <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
               <h4>Toshi Singhal</h4>
-              <p class="text-muted">Lead Marketeer, Developer</p>
+              <p class="text-muted">Co-Founder</p>
               <ul class="list-inline social-buttons">
                 <!--li class="list-inline-item">
                   <a href="#">
@@ -320,9 +323,9 @@
           </div>
           <div class="col-sm-6">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="static/img/team/2.jpg" alt="">
+              <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
               <h4>Aniruddh Ojha</h4>
-              <p class="text-muted">Developer</p>
+              <p class="text-muted">Co-Founder</p>
               <ul class="list-inline social-buttons">
                 <li class="list-inline-item">
                   <a href="https://twitter.com/aniruddhojha">
@@ -344,7 +347,7 @@
           </div>
           <!--div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="static/img/team/3.jpg" alt="">
+              <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
               <h4>Diana Pertersen</h4>
               <p class="text-muted">Lead Developer</p>
               <ul class="list-inline social-buttons">
@@ -381,22 +384,22 @@
         <div class="row">
           <div class="col-md-3 col-sm-6">
             <a href="#">
-              <img class="img-fluid d-block mx-auto" src="static/img/logos/envato.jpg" alt="">
+              <img class="img-fluid d-block mx-auto" src="img/logos/envato.jpg" alt="">
             </a>
           </div>
           <div class="col-md-3 col-sm-6">
             <a href="#">
-              <img class="img-fluid d-block mx-auto" src="static/img/logos/designmodo.jpg" alt="">
+              <img class="img-fluid d-block mx-auto" src="img/logos/designmodo.jpg" alt="">
             </a>
           </div>
           <div class="col-md-3 col-sm-6">
             <a href="#">
-              <img class="img-fluid d-block mx-auto" src="static/img/logos/themeforest.jpg" alt="">
+              <img class="img-fluid d-block mx-auto" src="img/logos/themeforest.jpg" alt="">
             </a>
           </div>
           <div class="col-md-3 col-sm-6">
             <a href="#">
-              <img class="img-fluid d-block mx-auto" src="static/img/logos/creative-market.jpg" alt="">
+              <img class="img-fluid d-block mx-auto" src="img/logos/creative-market.jpg" alt="">
             </a>
           </div>
         </div>
@@ -506,7 +509,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="static/img/portfolio/01-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/01-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -540,7 +543,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="static/img/portfolio/02-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/02-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -574,7 +577,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="static/img/portfolio/03-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/03-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -608,7 +611,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="static/img/portfolio/04-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/04-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -642,7 +645,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="static/img/portfolio/05-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/05-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -676,7 +679,7 @@
                   <!-- Project Details Go Here -->
                   <h2 class="text-uppercase">Project Name</h2>
                   <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                  <img class="img-fluid d-block mx-auto" src="static/img/portfolio/06-full.jpg" alt="">
+                  <img class="img-fluid d-block mx-auto" src="img/portfolio/06-full.jpg" alt="">
                   <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                   <ul class="list-inline">
                     <li>Date: January 2017</li>
@@ -695,18 +698,18 @@
     </div>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="static/vendor/jquery/jquery.min.js"></script>
-    <script src="static/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="static/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
 
     <!-- Contact form JavaScript -->
-    <script src="static/js/jqBootstrapValidation.js"></script>
-    <script src="static/js/contact_me.js"></script>
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="static/js/agency.min.js"></script>
+    <script src="js/agency.min.js"></script>
 
   </body>
 
