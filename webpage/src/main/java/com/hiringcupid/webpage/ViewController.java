@@ -8,6 +8,6 @@ public class ViewController {
 
 	@GetMapping("/index")
 	public String getJsp() {
-		return "index";
+		return "index1";
 	}
 }
