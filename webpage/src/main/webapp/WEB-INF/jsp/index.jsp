@@ -67,108 +67,10 @@
           <div class="intro-lead-in-sub-header">
             <p>Send us your resume to get a free mock interview from interviewers at your dream company!</p> 
           </div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">Upload Resume</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc4Wxo8x61LIi831BCdrVwbEonBtIw69nMlY6p3cqtzFxcvSA/viewform">Upload Resume</a>
         </div>
       </div>
     </header>
-
-    <!-- Portfolio Grid -->
-    <!--section class="bg-light" id="portfolio">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Portfolio</h2>
-            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal1">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Threads</h4>
-              <p class="text-muted">Illustration</p>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal2">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Explore</h4>
-              <p class="text-muted">Graphic Design</p>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal3">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Finish</h4>
-              <p class="text-muted">Identity</p>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal4">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/04-thumbnail.jpg" alt="">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Lines</h4>
-              <p class="text-muted">Branding</p>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal5">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/05-thumbnail.jpg" alt="">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Southwest</h4>
-              <p class="text-muted">Website Design</p>
-            </div>
-          </div>
-          <div class="col-md-4 col-sm-6 portfolio-item">
-            <a class="portfolio-link" data-toggle="modal" href="#portfolioModal6">
-              <div class="portfolio-hover">
-                <div class="portfolio-hover-content">
-                  <i class="fas fa-plus fa-3x"></i>
-                </div>
-              </div>
-              <img class="img-fluid" src="img/portfolio/06-thumbnail.jpg" alt="">
-            </a>
-            <div class="portfolio-caption">
-              <h4>Window</h4>
-              <p class="text-muted">Photography</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section -->
 
     <!-- About -->
     <section id="about">
@@ -184,7 +86,7 @@
             <ul class="timeline">
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/1.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="static/img/about/1.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -192,13 +94,13 @@
                     <h4 class="subheading">Upload your resume</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Candidate uploads the resume and gets a chance for free mock interviews taken by alums of his dream company. </p>
+                    <p class="text-muted">Candidate uploads the resume and gets a chance for free mock interviews taken by employees(current/former) of your dream company. </p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/2.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="static/img/about/2.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -212,7 +114,7 @@
               </li>
               <li>
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/3.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="static/img/about/3.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
@@ -220,18 +122,18 @@
                     <h4 class="subheading">Schedule online interviews</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">Our team works out acceptable times between interviewee and the interviewers and schedule 2 technical and 1 manager cum hr interviews. The technical interviews are taken online by alums of your dream company.</p>
+                    <p class="text-muted">Our team works out acceptable times between interviewee and the interviewers and schedule 2 technical and 1 manager cum hr interviews. The technical interviews are taken online by employees(current/former) of your dream company.</p>
                   </div>
                 </div>
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="static/img/about/4.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>Feedback</h4>
-                    <h4 class="subheading">Explore opportunities your dream companies!</h4>
+                    <h4 class="subheading">Explore opportunities!</h4>
                   </div>
                   <div class="timeline-body">
                     <p class="text-muted">A detailed feedback is shared with you. What went well and what didn't. We try to follow the same evalution criterias which would be used at your target company. Based on the feedback, you have chance to get interviewed at your dream company and all the matching job openings!  </p>
@@ -240,7 +142,7 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="img/about/5.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="static/img/about/5.jpg" alt="">
                 </div>
               </li>
             </ul>
@@ -264,24 +166,24 @@
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-file-pdf fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Resume Highlight</h4>
-            <p class="text-muted">Our expert team validates and maps the resume to the best and most relevant openings, increasing the chances to get hired by 250%.</p>
+            <h4 class="service-heading">Resume Analysis</h4>
+            <p class="text-muted">Our expert team analysis your resume and gives you feedback on ways to improve it!</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-calendar-check fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Interview Schedule</h4>
-            <p class="text-muted">We have a team of Interviewers which will schedule and take 2-3 rounds Online interviews, as per the job openings.</p>
+            <h4 class="service-heading">Interview Practice</h4>
+            <p class="text-muted">Get real interview experience by mock interviews taken by interviewers at your dream company!</p>
           </div>
           <div class="col-md-4">
             <span class="fa-stack fa-4x">
               <i class="fas fa-circle fa-stack-2x text-primary"></i>
               <i class="fas fa-handshake fa-stack-1x fa-inverse"></i>
             </span>
-            <h4 class="service-heading">Job Options</h4>
-            <p class="text-muted">Candidates can apply and give interview for multiple jobs. All Interviews are taken by employees of the same company.</p>
+            <h4 class="service-heading">Job Opportunities</h4>
+            <p class="text-muted">Find multiple job openings relevant to you and get your application on fast track!</p>
           </div>
         </div>
       </div>
@@ -292,38 +194,47 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading text-uppercase">Our Amazing Team</h2>
-            <h3 class="section-subheading text-muted">Meet and Connect to our amazing team.</h3>
+            <h2 class="section-heading text-uppercase">Our Interviewing Panel</h2>
+            <h3 class="section-subheading text-muted">Our amazing interviewing team comes from these companies and more ...</h3>
           </div>
         </div>
         <div class="row">
-          <div class="col-sm-6">
+          <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/1.jpg" alt="">
-              <h4>Toshi Singhal</h4>
-              <p class="text-muted">Co-Founder</p>
-              <ul class="list-inline social-buttons">
-                <!--li class="list-inline-item">
-                  <a href="#">
-                    <i class="fab fa-twitter"></i>
-                  </a>
-                </li-->
-                <li class="list-inline-item">
-                  <a href="https://www.facebook.com/toshi.singhal">
-                    <i class="fab fa-facebook-f"></i>
-                  </a>
-                </li>
-                <li class="list-inline-item">
-                  <a href="https://www.linkedin.com/in/toshi-singhal-64b71635/">
-                    <i class="fab fa-linkedin-in"></i>
-                  </a>
-                </li>
-              </ul>
+              <img class="mx-auto rounded-circle" src="static/img/companies/amazon.png" alt="">
             </div>
           </div>
-          <div class="col-sm-6">
+          <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="img/team/2.jpg" alt="">
+              <img class="mx-auto rounded-circle" src="static/img/companies/google.jpg" alt="">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="static/img/companies/microsoft.png" alt="">
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="static/img/companies/oracle.png" alt="">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="static/img/companies/apple.png" alt="">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="static/img/companies/deloitte.png" alt="">
+            </div>
+          </div>
+        </div>
+<!--           <div class="col-sm-6">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="static/img/team/2.jpg" alt="">
               <h4>Aniruddh Ojha</h4>
               <p class="text-muted">Co-Founder</p>
               <ul class="list-inline social-buttons">
@@ -344,7 +255,7 @@
                 </li>
               </ul>
             </div>
-          </div>
+          </div> -->
           <!--div class="col-sm-4">
             <div class="team-member">
               <img class="mx-auto rounded-circle" src="img/team/3.jpg" alt="">
@@ -379,7 +290,7 @@
     </section>
 
     <!-- Clients -->
-    <!--section class="py-5">
+    <!-- section class="py-5">
       <div class="container">
         <div class="row">
           <div class="col-md-3 col-sm-6">
@@ -404,7 +315,7 @@
           </div>
         </div>
       </div>
-    </section-->
+    </section -->
 
     <!-- Contact -->
     <section id="contact">
@@ -412,40 +323,27 @@
         <div class="row">
           <div class="col-lg-12 text-center">
             <h2 class="section-heading text-uppercase">Contact Us</h2>
-            <h3 class="section-subheading text-muted">Enter the details and send us your queries.</h3>
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-12">
-            <form id="contactForm" name="sentMessage" novalidate="novalidate">
-              <div class="row">
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <input class="form-control" id="name" type="text" placeholder="Your Name *" required="required" data-validation-required-message="Please enter your name.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="email" type="email" placeholder="Your Email *" required="required" data-validation-required-message="Please enter your email address.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                  <div class="form-group">
-                    <input class="form-control" id="phone" type="tel" placeholder="Your Phone *" required="required" data-validation-required-message="Please enter your phone number.">
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="col-md-6">
-                  <div class="form-group">
-                    <textarea class="form-control" id="message" placeholder="Your Message *" required="required" data-validation-required-message="Please enter a message."></textarea>
-                    <p class="help-block text-danger"></p>
-                  </div>
-                </div>
-                <div class="clearfix"></div>
-                <div class="col-lg-12 text-center">
-                  <div id="success"></div>
-                  <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
-                </div>
-              </div>
-            </form>
+          <div class="col-lg-8 mx-auto text-center">
+            <ul class="list-inline social-buttons">
+              <li class="list-inline-item">
+                <a href="#">
+                  <i class="fab fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.facebook.com/hiringCupid/" target="_blank">
+                  <i class="fab fa-facebook-f"></i>
+                </a>
+              </li>
+              <li class="list-inline-item">
+                <a href="https://www.linkedin.com/company/14511620">
+                  <i class="fab fa-linkedin-in"></i>
+                </a>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
@@ -455,27 +353,8 @@
     <footer>
       <div class="container">
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-md-8 mx-auto text-right">
             <span class="copyright">Copyright &copy; hiringcupid.com 2018</span>
-          </div>
-          <div class="col-md-4">
-            <ul class="list-inline social-buttons">
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-twitter"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-facebook-f"></i>
-                </a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="fab fa-linkedin-in"></i>
-                </a>
-              </li>
-            </ul>
           </div>
           <div class="col-md-4">
             <ul class="list-inline quicklinks">
