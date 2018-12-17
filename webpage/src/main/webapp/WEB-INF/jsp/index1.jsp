@@ -128,15 +128,29 @@
               </li>
               <li class="timeline-inverted">
                 <div class="timeline-image">
-                  <img class="rounded-circle img-fluid" src="static/img/about/4.jpg" alt="">
+                  <img class="rounded-circle img-fluid" src="static/img/about/6.jpg" alt="">
                 </div>
                 <div class="timeline-panel">
                   <div class="timeline-heading">
                     <h4>Feedback</h4>
-                    <h4 class="subheading">Explore opportunities!</h4>
+                    <h4 class="subheading">Buckle Up!</h4>
                   </div>
                   <div class="timeline-body">
-                    <p class="text-muted">A detailed feedback is shared with you. What went well and what didn't. We try to follow the same evalution criterias which would be used at your target company. Based on the feedback, you have chance to get interviewed at your dream company and all the matching job openings!  </p>
+                    <p class="text-muted">A detailed feedback is shared with you. What went well and what didn't. We try to follow the same evalution criterias which would be used at your target company. </p>
+                  </div>
+                </div>
+              </li>
+			  <li>
+                <div class="timeline-image">
+                  <img class="rounded-circle img-fluid" src="img/about/4.jpg" alt="">
+                </div>
+                <div class="timeline-panel">
+                  <div class="timeline-heading">
+                    <h4>Personal Interview</h4>
+                    <h4 class="subheading">Explore opportunities with your dream companies</h4>
+                  </div>
+                  <div class="timeline-body">
+                    <p class="text-muted">Based on the feedback, you have chance to get interviewed at your dream company, from all the matching job openings!</p>
                   </div>
                 </div>
               </li>
